@@ -1,0 +1,9 @@
+{
+	"name": "acanaless",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e741202-d89c-45fb-bafb-409f9e77382b",
+		"tenantId": "f90f63d2-c507-4c57-9c8b-7088de89f082"
+	}
+}
